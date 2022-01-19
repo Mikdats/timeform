@@ -1,0 +1,17 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\bin\Debug\netcoreapp3.1\timerform.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\bin\Debug\netcoreapp3.1\timerform.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\bin\Debug\netcoreapp3.1\timerform.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\bin\Debug\netcoreapp3.1\timerform.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\bin\Debug\netcoreapp3.1\timerform.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\bin\Debug\netcoreapp3.1\timerform.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.Properties.Resources.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.genruntimeconfig.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\timerform\timerform\obj\Debug\netcoreapp3.1\timerform.csproj.AssemblyReference.cache
